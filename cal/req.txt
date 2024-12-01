@@ -1,0 +1,3 @@
+install libraries from
+
+uv pip install opencv-python keras mediapipe numpy tensorflow
